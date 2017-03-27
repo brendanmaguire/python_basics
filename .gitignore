@@ -1,0 +1,7 @@
+*.html
+*.swo
+*.swp
+.venv
+.ropeproject
+theme/
+!python_basics/theme/
