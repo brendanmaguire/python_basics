@@ -29,6 +29,17 @@ python3 program.py
 * Can install [iPython](http://ipython.readthedocs.io/en/stable/) for a nicer REPL
 
 ---
+# Examples & Exercises
+* Throughout this presentation there are example code snippets and exercises
+* The example code snippets are extracted to `.py` files and can be found
+[here](https://github.com/brendanmaguire/python_basics/tree/master/examples)
+* Sample solutions to the exercises can be found
+[here](https://github.com/brendanmaguire/python_basics/tree/master/exercise_solutions)
+
+***Note***: To get the maximum benefit from this tutorial, please try to complete the exercises
+yourself before looking at the same solutions
+
+---
 # Data Types
 * Boolean - `bool`
 * Numeric - `int` `float` `complex`
